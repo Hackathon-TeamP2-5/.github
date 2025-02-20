@@ -3,7 +3,6 @@
   ![Mental_Health_Chatbot](https://github.com/user-attachments/assets/2df5a59b-6fe9-4cef-9568-2aca43e9020d)
   
   ![npm version](https://img.shields.io/npm/v/npm)
-  ![Yarn version](https://img.shields.io/badge/Yarn-1.22.11-2C8EBB)
   ![pip version](https://img.shields.io/pypi/v/pip)
   ![Llama 3.2 1B](https://img.shields.io/badge/Llama%203.2%201B-2E3440?logo=meta&logoColor=white)
   [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/freeDevelopersCamp/releases/tag/v1.0.0)
