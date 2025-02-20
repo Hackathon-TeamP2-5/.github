@@ -6,7 +6,6 @@
   ![pip version](https://img.shields.io/pypi/v/pip)
   ![Llama 3.2 1B](https://img.shields.io/badge/Llama%203.2%201B-2E3440?logo=meta&logoColor=white)
   [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/freeDevelopersCamp/releases/tag/v1.0.0)
-  [![Contributors](https://img.shields.io/github/contributors/freeDevelopersCamp/learning-platform-ui-web)](https://github.com/FreeDevelopersCamp/learning-platform-ui-web/graphs/contributors)
   [![license](https://img.shields.io/github/license/FreeDevelopersCamp/learning-platform-api)](https://img.shields.io/github/license/FreeDevelopersCamp/learning-platform-api)
   ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/freeDevelopersCamp/learning-platform-ui-web)
 
