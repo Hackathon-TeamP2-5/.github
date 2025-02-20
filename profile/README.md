@@ -33,13 +33,19 @@
 
 </div>
 
-# Introduction
+## Introduction
 We developed a conversational AI tool that provides mental health support provided web application for better user experience.
 
-# Organization overview:
+## Organization overview:
 1. `chatbot-ui` respository for building FrontEnd web application using Streamlit.
 2. `chatbot-api` repository for building BackEnd application using Node.js, Express, MongoDB, and JWT for authentication.
 3. `chatbot-ai` repository for Data analysis and Fine-Tuning the model.
 
-# Contacts:
+## Contributing
+Feel free to fork the repository and submit a pull request with your improvements.
+
+## License
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+## Contacts:
 If you need full guidance and step by step tutorial of building and fine-tuning models you can reach out me on my profile or email address `baraalsedih@gmail.com`.
