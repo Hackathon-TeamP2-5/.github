@@ -39,6 +39,11 @@ We developed a conversational AI tool that provides mental health support provid
 2. `chatbot-api` repository for building BackEnd application using Node.js, Express, MongoDB, and JWT for authentication.
 3. `chatbot-ai` repository for Data analysis and Fine-Tuning the model.
 
+## Application demo:
+
+https://github.com/user-attachments/assets/42762e85-891d-4078-b9f2-f8d6227810e0
+
+
 ## Contributing
 Feel free to fork the repository and submit a pull request with your improvements.
 
