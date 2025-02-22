@@ -32,7 +32,7 @@
 </div>
 
 ## Introduction
-We developed a conversational AI tool that provides mental health support provided web application for better user experience.
+We developed a conversational AI tool that provides mental health support provided web application for better user experience. And we won the first place 🚀🎉🥳🥳
 
 ## Organization overview:
 1. `chatbot-ui` respository for building FrontEnd web application using Streamlit.
