@@ -18,7 +18,6 @@
   ![JWT](https://img.shields.io/badge/JWT-000000?logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-  ![RAG](https://img.shields.io/badge/RAG-8E44AD?logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
   ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=plotly&logoColor=white)
